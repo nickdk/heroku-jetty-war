@@ -1,3 +1,4 @@
 .project
 .settings/
 target
+src/main/resources/war
